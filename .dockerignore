@@ -1,0 +1,3 @@
+# all ignore files
+Dockerfile
+Jenkinsfile
