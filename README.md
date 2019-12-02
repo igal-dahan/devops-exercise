@@ -131,8 +131,6 @@ Continue to CD as defined above.
 
 **GOOD LUCK!**
 
-**The ClimaCell Team**
-
 Answers:
 - add dockerfile
 - add docker-entrypoint.sh
